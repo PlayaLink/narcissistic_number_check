@@ -6,3 +6,5 @@ For example, take 153 (3 digits):
 1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
 
 The isNarcissistic function accepts a value and returns true or false depending upon whether the given number is a Narcissistic number.
+
+Code Wars: https://www.codewars.com/kata/5287e858c6b5a9678200083c/train/javascript
